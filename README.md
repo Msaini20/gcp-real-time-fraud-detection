@@ -4,7 +4,7 @@
 [![BigQuery](https://img.shields.io/badge/BigQuery-Continuous_Queries_%26_ISO_GQL_Graph-34A853?style=for-the-badge&logo=google-bigquery&logoColor=white)](https://cloud.google.com/bigquery)
 [![Apache Iceberg](https://img.shields.io/badge/Lakehouse-Apache_Iceberg_%26_BigLake-0083B0?style=for-the-badge&logo=apache&logoColor=white)](https://iceberg.apache.org/)
 [![Vertex AI](https://img.shields.io/badge/Vertex_AI-Gemini_Multimodal_Biometrics-FBBC04?style=for-the-badge&logo=google&logoColor=black)](https://cloud.google.com/vertex-ai)
-[![License](https://img.shields.io/badge/License-Apache_2.0-EA4335?style=for-the-badge)](LICENSE)
+
 
 ---
 
