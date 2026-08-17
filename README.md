@@ -89,8 +89,6 @@ This reference architecture implements an **Autonomous, Zero-Data-Movement Defen
 ├── 04_stream_simulation/
 │   └── stream_simulator.py              # Point-of-Sale POS & auth event stream generator
 ├── 05_collaterals/
-│   ├── ARCHITECTURE_DIAGRAM.mermaid     # Complete Mermaid architecture specification
-│   ├── EXECUTIVE_DEMO_SCRIPT_AND_SLIDES.md # Slide-by-slide executive presentation script
 │   └── DEMO_EXECUTIVE_COVER_PAGE.md     # 1-page C-suite briefing overview
 ├── app.py                               # Operations Command Center (Streamlit Web App)
 ├── deploy_all.sh                        # Automated full-stack GCP deployment script
